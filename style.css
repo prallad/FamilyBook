@@ -1,0 +1,25 @@
+body{
+    text-align:center;
+    background-color:#a6e2e2;
+  
+}
+  
+  /*style for image tag*/
+  #album
+  {
+   
+    border-bottom: 3px solid #6cac89;   
+    padding : 5px;
+    
+    height : 400px;
+
+  }
+
+  #button{
+      background-color:#6cac89;
+      
+  }
+  #header{
+      font-size:30px;
+      color:#6cac89;
+  }
